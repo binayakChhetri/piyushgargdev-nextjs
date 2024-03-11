@@ -16,6 +16,10 @@
   color: #808dad;
 }
 
+.form__group textarea {
+  resize: none;
+}
+
 .form button {
   color: var(--site-theme-color);
 }
